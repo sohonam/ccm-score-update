@@ -1,0 +1,9 @@
+{
+ "build": 63,
+ "version": "0.63",
+ "date": "2026-11-22",
+ "notes": "업데이트 저장소를 따로 나눔 (기능 변화 없음)",
+ "url": "ccm-63.ccmpatch",
+ "sha256": "ff6195d97a966b139564ad12e4a56fed2cf11ebc7b99ddf7acae08ae5652466e",
+ "size": 381648
+}
