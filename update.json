@@ -1,9 +1,9 @@
 {
- "build": 63,
- "version": "0.63",
+ "build": 64,
+ "version": "0.64",
  "date": "2026-11-22",
- "notes": "업데이트 저장소를 따로 나눔 (기능 변화 없음)",
- "url": "ccm-63.ccmpatch",
- "sha256": "ff6195d97a966b139564ad12e4a56fed2cf11ebc7b99ddf7acae08ae5652466e",
- "size": 381648
+ "notes": "새로 설치·업데이트했는데 예전 판이 열리던 문제 고침 (뒤에서 돌던 예전 서버를 끄고 새 판으로 시작)",
+ "url": "ccm-64.ccmpatch",
+ "sha256": "906a5356e2b6ed7bdeb5731b8ebe77bf123e5249a7ff04a319954ae945916d8e",
+ "size": 381706
 }
